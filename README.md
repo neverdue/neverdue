@@ -10,9 +10,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Mayank Pandey | Web Developer" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mayank | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mayank | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mayank | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mayank Pandey | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mayank Pandey | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mayank Pandey | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,7 +39,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-24e7rdkz8.vercel.app/api?username=neverdue&show_icons=true&count_private=false&hide_border=true" />
+<img align="left" alt="Neverdue's Github Stats" src="https://github-readme-stats-24e7rdkz8.vercel.app/api?username=neverdue&show_icons=true&count_private=false&hide_border=true" />
 
 [project]: https://github.com/neverdue/GrowersBrains/
 [website]: https://hardcore-davinci-a91626.netlify.app/
