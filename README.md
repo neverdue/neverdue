@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=neverdue&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=neverdue&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://hardcore-davinci-a91626.netlify.app/
 [twitter]: https://twitter.com/MayankPandey200
