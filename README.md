@@ -42,7 +42,7 @@
 <img align="left" alt="Neverdue's Github Stats" src="https://github-readme-stats-24e7rdkz8.vercel.app/api?username=neverdue&show_icons=true&count_private=false&hide_border=true" />
 
 [project]: https://github.com/neverdue/GrowersBrains/
-[website]: https://hardcore-davinci-a91626.netlify.app/
+[website]: https://pan-dev.netlify.app/
 [twitter]: https://twitter.com/MayankPandey200/
 [instagram]: https://www.instagram.com/mayank_panday/
 [linkedin]: https://www.linkedin.com/in/pan-dev/
