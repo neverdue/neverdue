@@ -1,7 +1,7 @@
 ### Hi there, I'm Mayank Pandey - aka [pandev][website] 👋
 
 ## I'm an international student at the University of South Florida!
-- I’m currently working with a backend team on an [Open Source project][project]!
+- I’m a collaborator on the [Pandemic Produce Delivery Project][project]!
 - I’m currently learning new things about dynamic programming
 - I’m looking to gain more experience and develop more skills
 - 2020 Goals: Contribute more to Open Source projects
@@ -41,7 +41,7 @@
 
 <img align="left" alt="Neverdue's Github Stats" src="https://github-readme-stats-24e7rdkz8.vercel.app/api?username=neverdue&show_icons=true&count_private=false&hide_border=true" />
 
-[project]: https://github.com/neverdue/GrowersBrains/
+[project]: https://github.com/hanszhang00/Pandemic-Produce-Delivery-Project
 [website]: https://pan-dev.netlify.app/
 [twitter]: https://twitter.com/MayankPandey200/
 [instagram]: https://www.instagram.com/mayank_panday/
