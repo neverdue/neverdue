@@ -2,11 +2,11 @@
 
 ## I'm an international student at the University of South Florida!
 - I’m a collaborator on the [Pandemic Produce Delivery Project][project]!
-- I have a published paper in the [Undergraduate Journal of Mathematical Modeling: One + Two][Publication]
-- I’m currently learning new things about data structures and algorithms
-- I’m looking to gain more experience and develop more skills
-- 2020 Goals: Contribute more to Open Source projects
-- Fun fact: I love to sing and play the guitar
+- I have a published paper in the [Undergraduate Journal of Mathematical Modeling: One + Two][Publication].
+- I’m currently learning new things about data structures and algorithms.
+- I’m looking to gain more experience and develop more skills.
+- 2020 Goals: Contribute more to Open Source projects.
+- Fun fact: I love to sing and play the guitar.
 
 ### Connect with me:
 
