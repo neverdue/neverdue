@@ -1,11 +1,12 @@
 ### Hi there, I'm Mayank Pandey - aka [pandev][website] 👋
 
-## I'm an international student at the University of South Florida!
+## I'm an International Student at the University of South Florida!
+- I'm a Student Research Assistant working with distinguished professor, Dr. Autar Kaw, on his NSF-Funded project on Adaptive Learning.
+- I'm the Head of Communications for Society of Hispanic Professional Engineers!
+- I'm the Head of Design for Hackabull!
 - I’m a collaborator on the [Pandemic Produce Delivery Project][project]!
 - I have a published paper in the [Undergraduate Journal of Mathematical Modeling: One + Two][Publication].
-- I’m currently learning new things about data structures and algorithms.
 - I’m looking to gain more experience and develop more skills.
-- 2020 Goals: Contribute more to Open Source projects.
 - Fun fact: I love to sing and play the guitar.
 
 ### Connect with me:
