@@ -45,7 +45,7 @@
 
 [project]: https://github.com/hanszhang00/Pandemic-Produce-Delivery-Project
 [Publication]: https://scholarcommons.usf.edu/ujmm/vol11/iss1/1
-[website]: https://pan-dev.netlify.app/
+[website]: https://pan-dev.app/
 [twitter]: https://twitter.com/MayankPandey200/
 [instagram]: https://www.instagram.com/mayank_panday/
 [linkedin]: https://www.linkedin.com/in/pan-dev/
