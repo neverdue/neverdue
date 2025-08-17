@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Mayank Pandey | Web Developer" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mayank Pandey | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mayank Pandey | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -40,5 +39,4 @@
 
 [Publication]: https://scholarcommons.usf.edu/ujmm/vol11/iss1/1
 [website]: https://pan-dev.app/
-[twitter]: https://twitter.com/MayankPandey200/
 [linkedin]: https://www.linkedin.com/in/pan-dev/
